@@ -1,5 +1,6 @@
 # Web scarping for the store location info of Taiwan Carrefour.
 # 1st step: Use Google Chrome and connect to TW Carrefour store info site > press "F12" to launch developer mode > click "XHR" to identify the API link
+https://docs.google.com/document/d/1d4fmOA7S1wOpbw72dwC8W71_I3SqyHc74Ka2dM_zZSk/edit
 # 2nd step: Use postman app to test API link and identify the parameters for gathering data
 # 3rd step: Use below PYTHON code to scarp information form the website.
 
