@@ -1,7 +1,7 @@
 # Web Scarping using Python
 
-## Taiwan 7-11 Store Information
+## 1. Taiwan 7-11 Store Information
 
-## Taiwan Carrefour Store Information
+## 2. Taiwan Carrefour Store Information
 
-## Taiwan Government Sport Facility API Information
+## 3. Taiwan Government Sport Facility API Information
